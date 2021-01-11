@@ -1,5 +1,5 @@
-var ulang = true;
-while(ulang){
+var ulang = 1;
+while(ulang <=100){
     console.log('hello world');
-    ulang = confirm('lagi?');
+    ulang++;
 }
