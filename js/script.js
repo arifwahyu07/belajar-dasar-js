@@ -1,4 +1,2 @@
-alert ('hello');
-alert ('nama');
-alert ('saya');
-alert ('arif wahyu');
+var nama = prompt ('Masukan Nama:');
+alert (nama);
